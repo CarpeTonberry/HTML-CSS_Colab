@@ -2,6 +2,7 @@ body {
     background-image: url("../Images/Sign_Up.jpeg");
     background-repeat: no-repeat;
     background-size: cover;
+    margin-bottom: 500px;
 }
 
 .inputBox {
@@ -21,4 +22,22 @@ body {
       justify-content: center;
       width: 100%;
       margin-top: 10px;
+  }
+
+  footer ul {
+    background-color: hotpink;
+    display: flex;
+    transform: translateY(516px);
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
+    list-style: none;
+  }
+
+  footer h2 {
+    transform: translateY(500px);
+    display: flex;
+    justify-content: center;
+    align-self: flex-end;
+    background-color: red;
   }
