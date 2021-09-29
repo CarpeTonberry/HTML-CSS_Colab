@@ -5,6 +5,16 @@ body {
     margin-bottom: 500px;
 }
 
+.logo, h1 {
+  font-family: 'Fredericka the Great', cursive;
+  color: white;
+  font-size: 75px;
+}
+
+.yellow-text {
+  color: #ffc107
+}
+
 .inputBox {
     margin-top: 15%;
     margin-left: 25%;
